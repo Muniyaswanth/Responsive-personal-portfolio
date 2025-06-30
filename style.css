@@ -112,10 +112,6 @@ span {
     }
 }
 
-. home-content h2 {
-    font-size: 2.6rem;
-}
-
 .social-media a {
     display: inline-flex;
     justify-content: center;
